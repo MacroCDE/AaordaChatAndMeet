@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke;
+    color: black;
+    font-family: helvetica;
+}
+
+footer {
+    background-color: wheat;
+    margin: 0px;
+    padding: 12px;
+    text-align: center;
+    font: helvetica;
+}
+
+.header {
+    text-align: center;
+}
