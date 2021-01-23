@@ -1,6 +1,7 @@
 body {
     
     font-family: Helvetica;
+    background-color: lightblue;
 }
 
 p {
@@ -62,6 +63,8 @@ a:hover {
 
 .logo {
     text-align: center;
+    background-color: indigo;
+
 }
 
 .footer {
