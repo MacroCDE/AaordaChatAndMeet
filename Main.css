@@ -1,17 +1,69 @@
 body {
-    background-color: whitesmoke;
-    color: black;
-    font-family: helvetica;
+    
+    font-family: Helvetica;
 }
 
-footer {
-    background-color: wheat;
-    margin: 0px;
-    padding: 12px;
-    text-align: center;
-    font: helvetica;
+p {
+    margin: 20px 0;
+    line-height: 2px;
+}
+
+a {
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: goldenrod;
+}
+
+.cookie-container {
+    text-decoration: underline;
+}
+
+a:hover {
+    color:rgb(0, 0, 0);
+    transition: 1s;
+}
+
+.chatroom-1 {
+    padding: 4px;
+    margin: 20px;
+    position: relative;
+    left: 1cm;
+    display: inline-block;
+    border: solid 5px rgb(255, 0, 0);
+    border-radius: 100% 85% 100% 100% / 100% 100% 100% 100%;
+    border-width: 5px;
+    background-color: rgb(255, 0, 0);
+}
+
+.chatrooms {
+    position: relative;
+    left: 3cm;
+}
+
+.chatroom-2 {
+    padding: 4px;
+    margin: 20px;
+    position:relative;
+    left: 1cm;
+    display: inline-block;
+    border: solid 5px rgb(255, 0, 0);
+    border-radius: 100% 85% 100% 100% / 100% 100% 100% 100%;
+    border-width: 5px;
+    background-color: rgb(255, 0, 0);
 }
 
 .header {
+    text-align: center;
+}
+
+.paragraph-1 {
+    text-align:center;
+}
+
+.logo {
+    text-align: center;
+}
+
+.footer {
     text-align: center;
 }
